@@ -1,35 +1,34 @@
 <div align="center">
-  <img src="assets/profile-banner.png" alt="Kulaklıklı turuncu bir kedinin sıcak renkli çalışma masası illüstrasyonu" width="100%" />
+  <img src="assets/profile-banner.png" alt="Mikrofonlu kulaklığıyla kod ekranları arasında boş boş bakan turuncu kedi" width="100%" />
 </div>
 
-# Selam, ben ceritahmt 👋
+# Selam, ben ceritahmt 🎧
 
-**Kulaklık açık. Bug avı başladı.** 🎧🐈
+**Bakışlar boş. Terminal dolu.** 🐈
 
-Küçük bir sorunu çözerken işe yarar bir araç ortaya çıkarsa, onu burada paylaşıyorum.
+Web ve operasyon uygulamaları, Android barkod/depo akışları, Godot ile küçük 2D oyunlar ve IoT/elektronik kartlarla uğraşıyorum. AI ajanları, MCP ve otomasyonla tekrar eden işleri azaltmak hoşuma gidiyor.
 
 ```text
-$ git status
-On branch merak
-Changes to be committed:
-  + bir fikir
-  + bir fincan kahve
-  + "son bir düzeltme"
+$ cat current_quest.txt
+Son bir el.
+Son bir commit.
+Acaba bunu otomatikleştirsek?
 ```
 
-### Tezgâhtan çıkanlar
+### Envanterdeki projeler
 
 | Proje | Ne yapıyor? |
 | --- | --- |
-| [OpenCode Account Switcher](https://github.com/ceritahmt/opencode-account-switcher) | OpenCode'da birden fazla sağlayıcı hesabını CLI/TUI üzerinden yönetmeye yardımcı olur. |
-| [MySQL Readonly MCP](https://github.com/ceritahmt/mysql-readonly-mcp) · fork | MySQL için salt okunur bir MCP sunucusu. [Orijinal proje](https://github.com/beydemirfurkan/mysql-readonly-mcp). |
+| [OpenCode Account Switcher](https://github.com/ceritahmt/opencode-account-switcher) | OpenCode'da birden fazla sağlayıcı hesabını CLI/TUI üzerinden yönetir. Hesap seçme ekranı: mini boss. |
+| [MySQL Readonly MCP](https://github.com/ceritahmt/mysql-readonly-mcp) · fork | MySQL için salt okunur bir MCP sunucusu. Veritabanına bak, dokunma. [Orijinal proje](https://github.com/beydemirfurkan/mysql-readonly-mcp). |
 
 <details>
-<summary>🐾 Minik bir terminal sırrı</summary>
+<summary>🎮 Gizli görev</summary>
 
 ```text
 $ cat bug-report.txt
-Kedi klavyenin üstünde. Sorun yeniden üretilemedi.
+Kedi klavyenin üstünde.
+Bug yeniden üretilemedi. Oyunu o kazandı.
 ```
 
 </details>
