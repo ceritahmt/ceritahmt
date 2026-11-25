@@ -15,13 +15,6 @@ Son bir commit.
 Acaba bunu otomatikleştirsek?
 ```
 
-### Envanterdeki projeler
-
-| Proje | Ne yapıyor? |
-| --- | --- |
-| [OpenCode Account Switcher](https://github.com/ceritahmt/opencode-account-switcher) | OpenCode'da birden fazla sağlayıcı hesabını CLI/TUI üzerinden yönetir. Hesap seçme ekranı: mini boss. |
-| [MySQL Readonly MCP](https://github.com/ceritahmt/mysql-readonly-mcp) · fork | MySQL için salt okunur bir MCP sunucusu. Veritabanına bak, dokunma. [Orijinal proje](https://github.com/beydemirfurkan/mysql-readonly-mcp). |
-
 <details>
 <summary>🎮 Gizli görev</summary>
 
